@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary images & logs
+*.png
+*.jpg
+*.jpeg
+*.log
+
+# VS Code (keep settings if desired, or ignore history)
+.vscode/launch.json
+
+# OS specific
+Thumbs.db
+.DS_Store
